@@ -1,0 +1,2 @@
+weatherBlocks.startRain()
+weatherBlocks.startWind()
